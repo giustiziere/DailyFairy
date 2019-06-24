@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DailyFairy</string>
+    <string name="title_home">Этим днём</string>
+    <string name="title_notifications">Любимые праздники</string>
+</resources>
